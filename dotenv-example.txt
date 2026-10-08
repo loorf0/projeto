@@ -1,0 +1,9 @@
+# Copie este conteúdo para um arquivo chamado ".env" na raiz do projeto
+# (ao lado do index.js) e ajuste os valores.
+API_PORT=3000
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=coloque_a_senha_do_seu_mysql_aqui
+DB_DATABASE=teste3dsc
+JWT_SECRET=troque_por_uma_frase_longa_e_aleatoria

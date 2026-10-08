@@ -1,0 +1,7 @@
+body { min-height: 100vh; display: flex; flex-direction: column; background: #f4f4f4; }
+main { flex: 1; padding: 24px 12px; }
+form { background: #fff; padding: 24px; border-radius: 8px; width: 100%; max-width: 420px; box-shadow: 0 2px 8px rgba(0,0,0,.15); }
+label { display: block; margin-top: 10px; font-weight: 600; }
+.input_texto { width: 100%; padding: 8px; margin-top: 4px; border: 1px solid #ccc; border-radius: 4px; }
+.btn_enviar { width: 100%; margin-top: 18px; padding: 10px; border: 0; border-radius: 4px; background: #212529; color: #fff; cursor: pointer; }
+.btn_enviar:disabled { opacity: .6; cursor: wait; }
